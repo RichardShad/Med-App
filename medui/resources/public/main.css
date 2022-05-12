@@ -1,0 +1,23 @@
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    overflow: hidden;
+}
+
+.nav-links li {
+    float: left;
+}
+
+.nav-links li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-links li a:hover {
+    background-color: darkslategray;
+}
